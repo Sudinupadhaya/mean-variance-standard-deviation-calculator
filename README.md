@@ -34,7 +34,7 @@ It returns a dictionary in the following format:
   'min': [axis1, axis2, flattened],
   'sum': [axis1, axis2, flattened]
 }
-
+```
 ## Example
 
 ## Input
