@@ -65,10 +65,10 @@ It returns a dictionary in the following format:
 Run the following command in the terminal:
 
 ```bash
-python main.py
+python main.py```
 
 
-## Author
+Author
 
-## Sudin Upadhaya
+Sudin Upadhaya
 
