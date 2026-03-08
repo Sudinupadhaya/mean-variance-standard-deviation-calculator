@@ -66,6 +66,7 @@ Run the following command in the terminal:
 
 ```bash
 python main.py
+```
 
 
 Author
