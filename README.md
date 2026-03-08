@@ -1,5 +1,4 @@
-# mean-variance-standard-deviation-calculator
-freeCodeCamp Data Analysis with Python project
+
 # Mean-Variance-Standard Deviation Calculator
 
 This project is part of the **freeCodeCamp Data Analysis with Python** certification.
