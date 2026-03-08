@@ -54,18 +54,21 @@ It returns a dictionary in the following format:
 ```
  ## Files
 
-mean_var_std.py — main project file
+## Files
 
-main.py — used for testing the function
+- `mean_var_std.py` — main project file
+- `main.py` — used for testing the function
+- `test_module.py` — unit tests
 
-test_module.py — unit tests
-
-How to Run
+## How to Run
 
 Run the following command in the terminal:
 
+```bash
 python main.py
-Author
 
-Sudin Upadhaya
+
+## Author
+
+## Sudin Upadhaya
 
